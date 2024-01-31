@@ -1,0 +1,1846 @@
+.one{
+    background-image: linear-gradient(to right,#125DE7,#941F6A);
+    background-size: 100%;
+    overflow-x: hidden;
+    
+}
+.onelogo{
+    padding-top: 21px;
+   margin-left: 8%;
+   padding-bottom: 5px;
+}
+.onelogo img{
+   width: 150px;
+}
+.onephone{
+    display: flex;
+}
+.onephone img{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+.onephone p{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+}
+.onecall{
+    display: flex;
+}
+.onecall img{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+.onecall p{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+}
+
+.onebutton{
+    margin-top: 30px;
+}
+.onebutton a{
+    text-decoration: none;
+    background-image: linear-gradient(to  right, #46CFCC , #6164EA);
+    color: white;
+    padding: 10px 24px;
+}
+.onebutton a:hover{
+    color: black;
+}
+
+
+.two{
+    background-image: url(images/twosectioncover.png);
+    background-size: cover;
+    color: white;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   overflow-x: hidden;
+}
+
+.nav{
+    justify-content: center;
+}
+.five button.nav-link {
+    color: #000;
+    border: 1px solid #5497DC;
+    margin: 30px 15px 0;
+}
+.five button.nav-link.active {
+    background-image: linear-gradient(#46CFCC , #6164EA);
+}
+.button{
+    margin-top: 8%;
+}
+.button a{
+    text-decoration: none;
+}
+
+#startone{
+    color: white;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    padding: 20px 50px;
+    
+}
+
+#starttwo{
+    color: black;
+    background-color: white;
+    padding: 20px 50px;
+    margin-left: 2%;
+}
+
+
+.leftside img{
+    width: 130px;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.rightside{
+    background-color: white;
+    padding: 30px 25px;
+    text-align: center;
+    position: relative;
+}
+.rightside p{
+    font-size: 20px;
+}
+.rightside h2{
+    color: black;
+}
+.rightside span{
+    background-color:  #6164EA;
+    padding: 5px;
+    color: white;
+}
+.rightside p{
+    color: black;
+}
+
+.rightside input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding: 25px;
+    width: 100%;
+}
+
+.querry{
+    padding: 30px;
+    margin-top: 10%;
+}
+.querry a{
+   text-decoration: none;
+   color: white;
+   background-image: linear-gradient(#46CFCC , #6164EA);
+   padding: 20px 108px;
+}
+.querry a:hover{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    padding: 20px 108px;
+ }
+.rightside img{
+    width: 150px;
+    position: absolute;
+    top: -11%;
+    right: -4%;
+    
+}
+
+.thirdone h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.thirdtwo img{
+    width: 200px;
+    padding: 30px;
+}
+
+.four{
+   padding-top: 5%;
+    margin-left: 5%;
+    overflow-x: hidden;
+    padding-bottom: 5%;
+}
+
+.fourthree{
+    margin-top: 8%;
+}
+.fourthree a{
+    text-decoration: none;
+}
+
+#startthree{
+    color: white;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    padding: 20px 50px;
+    
+}
+
+#startfour{
+    color:white;
+    background-color: #393939;
+    padding: 20px 50px;
+    margin-left: 2%;
+}
+
+
+.fourtwo img{
+    width: 800px;
+    height: 370px;
+}
+
+.solution h3{
+    text-align: center;
+}
+
+.lorem p{
+    text-align: center;
+}
+
+#ecommerce{
+    text-decoration: none;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    padding: 10px 34px;
+}
+
+.food a{
+    text-decoration: none;
+    border: 1px solid #46CFCC;
+    color: black;
+    justify-content: space-between;
+    padding: 10px 34px;
+    margin: 10px;
+}
+.food a:hover{
+    color: #46CFCC;
+}
+
+.five{
+    background-image: url(images/k.png);
+    background-size: 100%;
+    padding: 60px 0;
+}
+.imgone{
+padding-top: 50px;
+padding-left: 0px;
+ 
+}
+.imgone img{
+    width: 270px;
+    height: auto;
+ 
+}
+
+.imgone img:hover{
+    transform: scale(1.3);
+}
+
+.imgtwo{
+   padding-top: 50px;
+   padding-left: 10px;
+   }
+.imgtwo img{
+    width: 270px;
+    height: auto;
+}
+.imgtwo img:hover{
+    transform: scale(1.3);
+}
+
+.imgthree{
+    padding-top: 50px;
+    padding-left: 10px;
+   }
+.imgthree img{
+    width: 270px;
+    height: auto;
+}
+.imgthree img:hover{
+    transform: scale(1.3);
+}
+
+.imgfour{
+    padding-top: 50px;
+    padding-left: 10px;
+   }
+.imgfour img{
+    width: 270px;
+    height: auto;
+}
+.imgfour img:hover{
+    transform: scale(1.3);
+}
+
+
+
+.imgfive{
+    padding-top: 20px;
+    padding-left: 0px;
+     
+    }
+    .imgfive img{
+        width: 270px;
+        height: auto;
+     
+    }
+    
+    .imgfive img:hover{
+        transform: scale(1.3);
+    }
+    
+    .imgsix{
+       padding-top: 20px;
+       padding-left: 10px;
+       }
+    .imgsix img{
+        width: 270px;
+        height: auto;
+    }
+    .imgsix img:hover{
+        transform: scale(1.3);
+    }
+    
+    .imgseven{
+        padding-top: 20px;
+        padding-left: 10px;
+       }
+    .imgseven img{
+        width: 270px;
+        height: auto;
+    }
+    .imgseven img:hover{
+        transform: scale(1.3);
+    }
+    
+    .imgeight{
+        padding-top: 20px;
+        padding-left: 10px;
+       }
+    .imgeight img{
+        width: 270px;
+        height: auto;
+    }
+    .imgeight img:hover{
+        transform: scale(1.3);
+    }
+    
+.six{
+    padding: 35px 50px;
+}
+    .sixcontent{
+        background-image: linear-gradient(#46CFCC , #6164EA);
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .sixcontent h5{
+        color: white;
+    }
+
+    .sixbutton{
+        margin-top: 3%;
+    }
+    .sixbutton a{
+        text-decoration: none;
+    }
+    #sixone{
+        color: black;
+       background-color: white;
+        padding: 15px 40px;
+        margin-top: 4%;
+    }
+    
+    #sixtwo{
+        color:white;
+        background-color: #393939;
+        padding: 15px 40px;
+        margin-left: 2%;
+    }
+
+
+    .seven{
+        background-image: linear-gradient(to left,#125DE7,#941F6A);
+        padding: 30px 5px;
+    }
+    .seven p{
+        text-align: center;
+        color: white;
+    }
+    .seven h5{
+        text-align: center;
+        position: relative;
+        color: white;
+        font-size: 24px;
+    }
+
+.seven h5::after{
+    position: absolute;
+    content: '';
+    width: 60px;
+    height: 5px;
+    background-color: red;
+    top: 29px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+     bottom: 0;
+}
+
+.sevenleft{
+    margin-top: 5%;
+}
+.sevenleft img{
+    width: 600px;
+    height: 500px;
+}
+    
+
+.wordpress{
+    background-color: white;
+    padding:15px ;
+    margin-top: 9%;
+    margin-left: 7%;
+}
+.wordpress h6{
+    margin-top: 4%;
+    color: black;
+}
+.wordpress span{
+    color: gray;
+    font-size: 13px;
+    font: optional;
+}
+
+.wordpress img{
+    width: 80px;
+    height: 70px;
+  
+    padding: 10px;
+    margin-right: 5%;
+}
+.wordpress{
+    display: flex;
+}
+
+.dotnet{
+    margin-left: 5%;
+}
+.dotnetone{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid gainsboro;
+}
+.dotnetone p{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.dotnettwo{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid gainsboro;
+}
+.dotnettwo p{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.dotnetthree{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid gainsboro;
+}
+.dotnetthree p{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.dotnetfour{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid gainsboro;
+}
+.dotnetfour p{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.eight{
+    margin-bottom: 5%;
+}
+.package h5{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 50px;
+    font-weight: 700;
+}
+
+.eightlorem p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.eight ul::-webkit-scrollbar-track{
+    background-color: #6E318F;
+    border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+}
+.eight ul::-webkit-scrollbar-thumb {
+   background-color: #6E318F;
+}
+.eight ul::-webkit-scrollbar-thumb:hover {
+   background-color: greenyellow;
+}
+.eight ul::-webkit-scrollbar {
+ width: 7px ;
+   color: black;
+}
+
+/*one eight*/
+.oneeight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+   
+}
+.oneeight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundred{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundred h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundred img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.oneeight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.oneeight ul{
+    margin: 30px;
+}
+.oneeight li{
+    list-style: none;
+}
+
+
+.ordernow{
+    padding: 20px 0 9px 0;
+}
+.ordernow a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernow a:hover{
+    color: black;
+}
+.oneeight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+
+
+/*two eight*/
+.twoeight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+}
+.twoeight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundredone{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundredone h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundredone img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.twoeight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.twoeight ul{
+    margin: 30px;
+}
+.twoeight li{
+    list-style: none;
+}
+
+
+.ordernowone{
+    padding: 20px 0 9px 0;
+}
+.ordernowone a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernowone a:hover{
+    color: black;
+}
+.twoeight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+/*three eight*/
+.threeeight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+}
+.threeeight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundredtwo{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundredtwo h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundredtwo img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.threeeight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.threeeight ul{
+    margin: 30px;
+}
+.oneeight li{
+    list-style: none;
+}
+
+
+.ordernowtwo{
+    padding: 20px 0 9px 0;
+}
+.ordernowtwo a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernowtwo a:hover{
+    color: black;
+}
+.threeeight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+
+
+
+/*four eight*/
+.foureight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+    margin-top: 30px
+}
+.foureight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundredthree{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundredthree h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundredthree img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.foureight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.foureight ul{
+    margin: 30px;
+}
+.foureight li{
+    list-style: none;
+}
+
+
+.ordernowthree{
+    padding: 20px 0 9px 0;
+}
+.ordernowthree a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernowthree a:hover{
+    color: black;
+}
+.foureight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+
+
+/*five eight*/
+.fiveeight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+    margin-top: 30px
+}
+.fiveeight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundredfour{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundredfour h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundredfour img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.fiveeight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.fiveeight ul{
+    margin: 30px;
+}
+.twoeight li{
+    list-style: none;
+}
+
+
+.ordernowfour{
+    padding: 20px 0 9px 0;
+}
+.ordernowfour a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernowfour a:hover{
+    color: black;
+}
+.fiveeight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+
+/*six eight*/
+.sixeight{
+    border: 5px solid #4F40AC;
+    border-radius: 28px;
+    margin-top: 30px
+}
+.sixeight h5{
+    text-align: center;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    padding: 12px 15px 15px 15px;
+    margin-left: 33%;
+}
+
+.hundredfive{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+}
+.hundredfive h6{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    width: 42%;
+    height: 50px;
+    margin-top: 2%;
+    font-size: 22px;
+    border-radius: 0 25px 20px 0;
+    padding: 12px 15px 15px 15px;
+}
+.hundredfive img{
+    width: 70px;
+    margin-left: 35%;
+}
+
+.sixeight h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid gray;
+    margin-left: 5%;
+    padding: 5px;
+    width: 90%;
+}
+
+.sixeight ul{
+    margin: 30px;
+}
+.sixeight li{
+    list-style: none;
+}
+
+
+.ordernowfive{
+    padding: 20px 0 9px 0;
+}
+.ordernowfive a{
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    color: white;
+    text-decoration: none;
+    border-radius: 0 0 30px 30px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: -13px;
+}
+.ordernowfive a:hover{
+    color: black;
+}
+.sixeight ul {
+    padding: 30px 40px;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+
+
+
+/*LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL   [nine]    LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL*/
+
+
+.nine{
+    background-image: linear-gradient(to left, #125DE7,#752E88);
+    padding-bottom: 30px;
+}
+
+.combo{
+    position: relative;
+}
+.combo img{
+    position: absolute;
+    top: -77px;
+    right: 0;
+}
+.combo h2{
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    padding: 30px 0 30px 0;
+    border-bottom: 1px solid white;
+}
+
+.advanceone{
+    margin-top: 7%;
+}
+.advanceone h4{
+     color: white;
+     margin-left: 15px;
+}
+
+.advanceone li{
+    color: white;
+    list-style: square;
+}
+.advancetwo{
+    margin-top: 7%;
+}
+.advancetwo h4{
+     color: white;
+     margin-left: 15px;
+}
+
+.advancetwo li{
+    color: white;
+     list-style: square;
+}
+.advancethree{
+    margin-top: 7%;
+}
+.advancethree h4{
+     color: white;
+     margin-left: 15px;
+}
+
+.advancethree li{
+    color: white;
+    list-style: square;
+}
+
+.subone{
+    display: flex;
+    padding: 10px;
+}
+.subone img{
+    width: 30px;
+}
+
+#callone{
+    margin-left: 4%;
+    margin-top: 2%;
+    color: white;
+    text-decoration: none;
+}
+#calltwo{
+    margin-left: 4%;
+    margin-top: 2%;
+    color: white;
+    text-decoration: none;
+}
+
+#callthree{
+    margin-left: 13%;
+}
+
+.advancefour{
+    padding-top: 70px;
+}
+.advancefour a{
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+}
+
+.advancefour a:hover{
+    color: white;
+}
+
+.advancefive{
+    text-align: center;
+}
+
+.advancefive h4{
+    color: white;
+}
+
+.advancefive span{
+    color: #707070;
+    font-weight: 800;
+    font-size: 40px;
+    position: relative;
+}
+
+.advancefive span::before{
+    position: absolute;
+    content: '';
+    background-color: orange;
+    width: 100px;
+    transform: rotate(352deg);
+    top: 25px;
+    min-height: 2px;
+}
+
+
+.advancefive h3{
+    color: orange;
+    transform: rotate(351deg);
+    position: relative;
+    left: -15%;
+    line-height: 0;
+    font-weight: 700;
+}
+.advancefive h1{
+   color: white;
+   font-size: 48px;
+   font-weight: 900;
+
+}
+.advancefive h1::before{
+    position: absolute;
+}
+
+
+.advancesix{
+    padding-top: 100px;
+}
+.advancesix a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    font-size: 22px;
+    padding: 13px 120px;
+}
+
+.advancesix a:hover{
+    background-color: orange;
+}
+
+.ten{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.some{
+    text-align: center;
+}
+
+.some h3{
+    font-weight: 700;
+}
+
+.tenone{
+    text-align: center;
+    background-image: url(images/ten\ background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.tenone img{
+    width: 600px;
+}
+
+
+.tentwo{
+    margin-left: 34%;
+}
+.tentwo a{
+    text-decoration: none;
+}
+#tenthree{
+    color: white;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    padding: 10px 50px;
+    
+}
+
+#tenfour{
+    color:white;
+    background-color: #393939;
+    padding: 10px 50px;
+    margin-left: 2%;
+}
+.eleven{
+    background-image: url(images/k.png);
+    background-size: 100%;
+    padding-bottom: 50px;
+}
+.testing h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 45px;
+}
+.elevenone i{
+    color: orange;
+}
+
+.elevenone{
+    border-right: 2px solid grey;
+    width: 90%;
+}
+
+.subeleven{
+    background-color: white;
+    padding: 25px ;
+}
+
+.eleventhree{
+    margin-left: 13%;
+}
+.eleventhree i{
+    color: orange;
+}
+
+
+
+/*LLLLLLLLLLLLLLLLLLLLLLLLLlLLLLLLL twelve LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL*/
+
+.twelve{
+    background-image: linear-gradient(to left, #125DE7,#752E88);
+   overflow-x: hidden;
+}
+
+
+.twelveone img{
+    width: 90%;
+    height: 800px;
+
+}
+.hear h2{
+    padding-top: 10%;
+    color: white;
+    font-size: 44px;
+}
+
+.hear p{
+    color: white;
+}
+.twelvetwo{
+    background-color: white;
+    padding: 40px 25px;
+    text-align: center;
+    position: relative;
+}
+.twelvetwo p{
+    font-size: 20px;
+}
+.twelvetwo h2{
+    color: black;
+}
+.twelvetwo span{
+    background-color:  #6164EA;
+    padding: 5px;
+    color: white;
+}
+.twelvetwo p{
+    color: black;
+}
+
+.twelvetwo input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding: 25px;
+    width: 100%;
+}
+
+.querrytwo{
+    padding: 30px;
+    margin-top: 10%;
+}
+.querrytwo a{
+   text-decoration: none;
+   color: white;
+   background-image: linear-gradient(#46CFCC , #6164EA);
+   padding: 20px 148px;
+}
+.querrytwo a:hover{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(#46CFCC , #6164EA);
+    padding: 20px 148px;
+ }
+
+ .thirteen{
+    background-color: #0c023e;
+ }
+ .t-one{
+     padding-top: 50px;
+     padding-bottom: 30px;
+     padding-right: 20px;
+    
+ }
+ .t-one p{
+     font-weight: 400;
+     font-size: 19px;
+     color: #fff !important;;
+ }
+
+ .t-one a{
+     text-decoration: none;
+     font-size: 20px;
+     color: #fff !important;
+ }
+.t-one a:hover{
+    text-decoration: underline;
+    color: #fff !important;
+}
+.t-one h4{
+    color: #fff !important;
+}
+.paypal{
+    width: 85%;
+}
+
+.t-two{
+    padding-top: 50px;
+}
+.explore h3{
+    color: #fff !important;
+}
+.explore ul{
+    margin-left: -30px;
+    
+}
+.explore li{
+    list-style: none;
+    padding: 3px;
+}
+.explore a{
+    text-decoration: none;
+    color: #fff !important;
+    font-size: 20px;
+}
+.social h3{
+    color: #fff !important;
+}
+.social i{
+    margin-top: 5%;
+    color: #fff !important;
+    font-size: 35px;
+    width: 40px;
+}
+
+
+.t-three{
+    padding-top: 60px;
+}
+.any{
+    padding: 20px;
+    border: 2px solid #28c89f;
+    border-radius: 10px;
+}
+.any h2{
+    color: #fff !important;
+}
+.any input{
+    width: 95%;
+    height: 45px;
+    padding-left: 15px;
+    border: 1px solid #fff !important;
+    background: none;
+    border-radius: 5px;
+}
+
+.any a{
+   text-decoration: none;
+   background-color: #FF627C;
+   padding: 10px 160px;
+   color: #fff !important;
+}
+
+
+/* kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk tablet  00000000000000000000000000000000000000000000 */
+@media only screen and (min-width:768px) and (max-width:991px){
+
+    .leftside h1 {
+        font-size: 26px;
+    }
+    .button {
+        margin-top: 8%;
+        display: flex;
+    }
+    #startone {
+        padding: 15px 0px;
+        width: 50%;
+        display: block;
+        text-align: center;
+    }
+    #starttwo {
+        padding: 15px 0px;
+        width: 50%;
+        display: block;
+        text-align: center;
+    }
+    .leftside img {
+        width: 109px;
+        margin-top: 10%;
+        padding: 5px;
+    }
+    .rightside img {
+        width: 120px;
+    }
+    .querry a {
+        padding: 16px 8px;
+        width: 100%;
+        display: block;
+    }
+
+
+
+    .fourone br{
+        display: none;
+    }
+
+    .fourtwo img{
+        width: 400px;
+    }
+
+    .fourone h2{
+        font-size: 17px;
+    }
+    .fourone p{
+        font-size: 13px;
+    }
+    .fourtwo img{
+        width: 100%;
+        height: auto;
+        margin-top: 11%;
+    }
+    .fourthree {
+        margin-top: 8%;
+        display: flex;
+    }
+    #startthree {
+        padding: 10px 0px;
+        text-align: center;
+        width: 50%;
+        display: block;
+    }
+    #startfour {
+        padding: 10px 0px;
+        margin-left: 2%;
+        text-align: center;
+        width: 50%;
+        display: block;
+    }
+    .five button.nav-link {
+        margin: 15px 1.5px 0 1.5px;
+    }
+    .imgone img{
+        width: 100%;
+    }
+    .imgtwo img{
+        width: 100%;
+    }
+    .imgthree img{
+        width: 100%;
+    }
+    .imgfour img{
+        width: 100%;
+    }
+    .sixbutton {
+        margin-top: 3%;
+        display: flex;
+    }
+    #sixone {
+        padding: 15px 0px;
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin-top: 0;
+    }
+    #sixtwo {
+        padding: 15px 0px;
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin-left: 5%;
+    }
+    .sevenleft img {
+        width: 118%;
+        height: 509px;
+    }
+    .threeeight{
+        display: none;
+    }
+    .sixeight{
+        display: none;
+    }
+    .nine {
+        margin-top: 12%;
+    }
+    
+    .combo img {
+        position: absolute;
+        top: -104px;
+        right: 0;
+    }
+    .nine {
+        background-image: linear-gradient(to left, #125DE7,#752E88);
+        padding-bottom: 30px;
+        margin-top: 12%;
+    }
+    .advancefive{
+        display: none;
+    }
+    .advancesix a {
+        padding: 12px 0px;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .tenone img {
+        width: 50%;
+    }   
+    .tentwo {
+        margin-left: 29%;
+    }
+    #tenthree {
+        padding: 10px 20px;
+    }
+    #tenfour{
+        padding: 10px 20px;
+    }
+    .elevenone p{
+        font-size: 13px;
+    }
+    .eleventwo img {
+        width: 95%;
+    }
+    .twelveone img {
+        width: 100%;
+        height: 800px;
+    }
+    .hear h2 {
+        font-size: 29px;
+    }
+    .hear p {
+        font-size: 15px;
+    }
+    .querrytwo a {
+        padding: 13px 8px;
+        width: 100%;
+        display: block;
+    }
+    .t-one img {
+        width: 154px;
+    }
+    .t-one br{
+        display: none;
+    }
+    .t-one a {
+        font-size: 15px;
+    }
+    .t-one p{
+        font-size: 15px;
+    }
+    .t-one h4 {
+        font-size: 19px;
+    }
+    .paypal img {
+        width: 196px;
+    }
+    .explore h3 {
+        font-size: 20px;  
+      }
+      .explore a {
+        font-size: 15px;
+    }
+    .social h3 {
+        font-size: 20px;
+        margin-top: 48%;
+    }
+    .social i {
+        color: #fff !important;
+        font-size: 31px;
+        width: 35px;
+    }
+    .any input {
+        width: 100%;
+        padding-left: 15px;
+    }
+    .any a {
+        padding: 10px 0px;
+        width: 100%;
+
+        display: block;
+        text-align: center;
+    }
+}
+
+
+/*__________________________________ for mobile________________________________________________________ */
+@media only screen and (max-width:767px){
+    .one{
+        width: 100%;
+        overflow-x: visible;
+        height: 230px;
+    }
+    .onelogo{
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .sevenleft img {
+        width: 100%;
+        height: 100%;
+    }
+    .tenone img {
+        width: 100%;
+    }
+    .tenone {
+        text-align: center;
+        background-image: url(images/ten\ background.png);
+        background-size: 0;
+        background-repeat: no-repeat;
+    }
+
+    .col-xs-6{
+        width: 50% !important;
+    }
+    .onebutton {
+        text-align: center;
+    }
+    .leftside {
+        display: none;
+    }
+
+    .fourone h2 {
+        font-size: 22px;
+    }
+    .fourone br {
+        display: none;
+    }
+    .querry a {
+        width: 100%;
+        display: block;
+        padding: 15px 0;
+    }
+    .fourthree{
+        display: flex;
+    }
+    #startthree {
+        color: white;
+        background-image: linear-gradient(#46CFCC , #6164EA);
+        padding: 10px 0;
+        display: block;
+        text-align: center;
+        width: 50%;
+    }
+    #startfour {
+        color: white;
+        background-color: #393939;
+        padding: 10px 0;
+        display: block;
+        margin-left: 12px;
+        text-align: center;
+        width: 50%;
+    }
+
+    .fourtwo img {
+        width: 100%;
+        height: auto;
+        margin-top: 32px;
+    }
+
+    .lorem p{
+        display: none;
+    }
+    .five button.nav-link {
+        color: #000;
+        border: 1px solid #5497DC;
+        margin: 6px -2px;
+        margin: 9px -3px 1px 0;
+    }
+
+
+    .col-sm-3{
+        width: 50% !important;
+    }
+
+    .imgone img {
+        width: 100%;
+        height: auto;
+    }
+    .imgtwo img {
+        width: 100%;
+        height: auto;
+    }
+
+    .imgthree img {
+        width: 100%;
+        height: auto;
+    }
+    .imgfour img {
+        width: 100%;
+        height: auto;
+    }
+    .sixcontent h5 {
+        color: white;
+        text-align: center;
+        font-size: 11px;
+    }
+    .sixbutton {
+        display: flex;
+        margin-top: 7%;
+        margin-bottom: 6%;
+    }
+    #sixone {
+        color: black;
+        background-color: white;
+        padding: 8px 0px;
+     width: 100%;
+        text-align: center;
+        display: block;
+      margin-top: 0;
+      font-size: 13px;
+    }
+    #sixtwo {
+        color: white;
+        background-color: #393939;
+        padding: 8px 0px;
+      width: 100%;
+        text-align: center;
+        display: block;
+        margin-left: 9px;
+        font-size: 13px;
+    }
+
+    .oneeight{
+        margin-top: 30px;
+    }
+    .twoeight{
+        margin-top: 30px;
+    }
+    .threeeight{
+        margin-top: 30px;
+    }
+
+    .nine{
+        background-image: linear-gradient(to button,#752E88, #125DE7);
+        margin-top: 25%;
+    }
+    .combo h2{
+        padding-top: 88px;
+    }
+    .combo img {
+        position: absolute;
+        width: 177px;
+        top: -87px;
+        right: 99px;
+    }
+    .advancefour{
+        display: none;
+    }
+    .advancefive{
+        display: none;
+    }
+    .advancesix{
+        display: none;
+    }
+    .tentwo {
+        margin-left: 0;
+        display: flex;
+    }
+    #tenthree {
+        color: white;
+        background-image: linear-gradient(#46CFCC , #6164EA);
+        padding: 10px 0px;
+        text-align: center;
+        width: 100%;
+        display: block;
+    }
+    #tenfour {
+        color: white;
+        background-color: #393939;
+        padding: 10px 0px;
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-left: 2%;
+    }
+
+    /*llll eleven */
+    .eleven{
+        display: none;
+    }
+     /*llll twelve */
+
+     .twelve{
+        padding: 0 10px 50px 10px;
+     }
+     .twelveone{
+         display: none;
+     }
+
+     .hear h2 {
+        padding-top: 10%;
+        text-align: center;
+        margin-top: 7%;
+        color: white;
+        font-size: 25px;
+    }
+    .hear p {
+        text-align: center;
+        margin-top: 5%;
+        margin-bottom: 12%;
+        color: white;
+    }
+    .querrytwo a {
+        padding: 20px 0px;
+        display: block;
+        width: 100%;
+    }
+
+    /*LLLL  thirteen */
+    .t-one{
+        margin-left: 10%;
+    }
+    .t-two{
+        margin-left: 10%;
+    }
+    .any input {
+        width: 100%;
+        padding-left: 16px;
+    }
+    .any a {
+        padding: 10px 0px;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
+
